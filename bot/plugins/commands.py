@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'our group', url="https://t.me/srsuggestionsmc"
+                                    'Join our group', url="https://t.me/srsuggestionsmc"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'Join', url="https://t.me/CrazyBotsz"
                                 )
                         ]
                     ]
